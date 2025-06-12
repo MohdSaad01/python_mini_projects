@@ -4,7 +4,8 @@ A curated collection of beginner-friendly Python mini projects encompassing game
 
 ## 📁 Projects Included
 
-- **Head-Tail Game**: Simulates a coin toss, allowing users to guess the outcome.
+-  **Turtle Crossing**: A fun arcade-style game where a turtle dodges moving cars to cross the road safely
+-  **Head-Tail Game**: Simulates a coin toss, allowing users to guess the outcome.
 - **Coffee Machine**: Simulates a coffee vending machine using functions and dictionaries to serve drinks based on user input and resources.  
 - **Leap Year Checker**: Determines whether a given year is a leap year.  
 - **Pizza Payment Calculator**: Calculates the total cost of a pizza order based on selected options.  
