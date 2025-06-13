@@ -6,6 +6,7 @@ A curated collection of beginner-friendly Python mini projects encompassing game
 
 -  **50 States Guessing Game:** A U.S. geography quiz using Turtle graphics and CSV data guess all 50 states by name on a blank map.
 -  **Turtle Crossing**: A fun arcade-style game where a turtle dodges moving cars to cross the road safely
+-  **Virtual Coffee Machine**: A command-line Python program that simulates a coffee machine, letting users select drinks, pay with virtual coins, and track ingredients.
 -  **Head-Tail Game**: Simulates a coin toss, allowing users to guess the outcome.
 - **Coffee Machine**: Simulates a coffee vending machine using functions and dictionaries to serve drinks based on user input and resources.  
 - **Leap Year Checker**: Determines whether a given year is a leap year.  
