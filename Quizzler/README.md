@@ -1,4 +1,4 @@
-# Quizzler
+# 📚 Quizzler 🧠
 
 Quizzler is a small Python quiz game for beginners.  
 It shows True or False trivia questions in a simple window.
